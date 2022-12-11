@@ -11,7 +11,7 @@ export default () => {
             <BrowserRouter>
             <main>
                 <Switch>
-                    <Route exact path='/pricing' conponent={Pricing} />
+                    <Route exact path='/pricing' component={Pricing} />
                     <Route exact path='/' component={Landing} />
                 </Switch>
                 </main>
