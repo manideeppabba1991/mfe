@@ -6,7 +6,7 @@ on:
       - main
       - b1
     paths:
-      - 'packages/comnatiner/**'
+      - 'packages/container/**'
 
 
 defaults:
